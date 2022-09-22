@@ -1,0 +1,13 @@
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Ricardo\source\repos\Projeto PluralSight\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.genruntimeconfig.cache
